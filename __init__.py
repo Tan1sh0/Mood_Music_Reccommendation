@@ -1,0 +1,1 @@
+"""Mood Music playlist generator."""
